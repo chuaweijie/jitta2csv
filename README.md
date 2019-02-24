@@ -10,7 +10,11 @@ This project is created as a workaround for myself to be able to get the data th
 4. Move the folder named jitta2csv-master inside the unzipped folder into the www folder inside your WAMP installation. 
 
 ## Mac
-// To be written.
+1. Download [MAMP](https://www.mamp.info/en/). I recommend MAMP for the ease of setup. You could also install and configure [Apache](https://httpd.apache.org/) + [PHP](https://secure.php.net/downloads.php) manually if that's your thing.
+2. [Download jitta2csv](https://github.com/chuaweijie/jitta2csv/archive/master.zip)
+3. Unzip jitta2csv-master.zip or whatever zip file that has been downloaded. 
+4. Move the folder named jitta2csv-master inside the unzipped folder into the htdocs folder inside your MAMP installation. 
+
 
 # Usage
 // To be written. 
