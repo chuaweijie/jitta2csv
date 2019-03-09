@@ -1,5 +1,5 @@
 # Introduction
-This project is created as a workaround for myself to be able to get the data that I'm following from Jitta easily. I do not have the patience nor interest to write this into a full fledged program. If you are interseted, feel free to fork this and make it better. 
+This project is created as a workaround for myself to be able to get the data that I'm following from [Jitta](https://www.jitta.com) easily. I do not have the patience nor the interest to write this into a full fledged program. If you are interseted, feel free to fork this and make it better. 
 
 
 # Installation
@@ -17,4 +17,4 @@ This project is created as a workaround for myself to be able to get the data th
 
 
 # Usage
-// To be written. 
+1. Please refer [jitta2csv wiki for usage](https://github.com/chuaweijie/jitta2csv/wiki). 
